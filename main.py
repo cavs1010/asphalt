@@ -48,7 +48,11 @@ def returnDf (propertyOfInterest):
     df[numericColumns] = df[numericColumns].replace('N/a', 0).astype(float)
     return df
 #%%
-df = returnDf('AirVoids')
-# %%
-print(df.dtypes)
+dfAirVoids = returnDf('AirVoids')
+dfMS = returnDf('AirVoids')
+dfMF = returnDf('MF')
+dfITS = returnDf('ITS')
+dfTSR = returnDf('TSR')
+#%%
+dfAirVoids.describe()
 # %%
