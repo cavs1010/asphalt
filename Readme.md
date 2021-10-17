@@ -23,4 +23,5 @@ Predicting the performance of asphalt mix after adding plastic waste through the
 <h2>Technologies</h2>
 <hr>
 <p></p>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src='https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg' width="40" height="40" alt='hola'/></a>
+<a href="https://www.python.org" onclick='window.open("https://www.w3schools.com/css/");return false;'><img src='https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg' width="40" height="40" alt='hola'/></a>
+
