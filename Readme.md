@@ -25,7 +25,16 @@
 <a href="https://numpy.org/"><img src='https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/numpy.svg' width="40" height="40" alt='numpy'/></a>
 <a href="https://scikit-learn.org/stable/"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' width="60" height="40" alt='scikit-learn'/></a>
 <a href="https://seaborn.pydata.org/"><img src='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg' width="40" height="40" alt='seaborn'/></a>
-<a href="https://seaborn.pydata.org/"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/XGBoost_logo.png/330px-XGBoost_logo.png' width="60" height="40" alt='seaborn'/></a>
+<a href="https://github.com/dmlc/xgboost"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/XGBoost_logo.png/330px-XGBoost_logo.png' width="60" height="40" alt='seaborn'/></a><p></p><br>
+
+<h2>Status</h2>
+<p>Complete!! 🎉🎉🎉</p><br>
+
+<h2>Inspiration and acknowlegde</h2>
+<p>I would like to extend my deepest gratitude to the authors of the articles used for training the ML models.</p>
+
+<h2>License</h2>
+<p>Licensed under Artistic License 2.0.</p>
 
 
 
