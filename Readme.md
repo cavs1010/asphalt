@@ -4,16 +4,6 @@
 
 <p>Predicting the performance of asphalt mix after adding plastic waste through the dry and wet technique.</p><br>
 
-<h2>Table of contents</h2>
-<ul>
-	<li>Introduction</li>
-	<li>Data collection</li>
-	<li>Technologies</li>
-	<li>Status</li>
-	<li>Inspiration and acknowledge</li>
-</ul><br>
-
-
 <h2>Introduction<a name="introduction_h"></a></h2>
 <p>This project aimed to propose feasible Machine Learning models that can predict the performance of pavements after plastic waste addition. These models could be helpful for professionals that are evaluating the use of plastic waste in the construction of flexible pavement. The properties predicted were Air Voids, Marshall Stability, Marshall Flow, and Indirect Tensile Strength.</p><br>
 
